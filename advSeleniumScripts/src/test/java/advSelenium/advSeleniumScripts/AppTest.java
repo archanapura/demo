@@ -9,5 +9,6 @@ public class AppTest
 	{
 		String browser1=System.getProperty("browser");
 		System.out.println(browser1);
+		System.out.println("hi");
 	}
 }
